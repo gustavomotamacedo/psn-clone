@@ -14,34 +14,5 @@
   display: flex;
   align-items: center;
   margin-left: 30px;
-}
-.menu-bar-items
-{
-  display: flex;
-  align-items: center;
-  margin: auto;
-}
-.menu-bar-items ul
-{
-  display: flex;
-  flex-direction: row;
-  list-style-type: none;
-}
-.menu-bar-items li {
-  padding: 5px;
-  margin: 0 15px 0 0;
-}
-.menu-bar-items a
-{
-  text-decoration: none;
-  padding: 5px;
-  cursor: pointer;
-  color: rgba(7, 7, 7, 1);
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-.menu-bar-items a:hover
-{
-  color: blue;
-  font-weight: 700;
-  transition-duration: .25s;
+  margin-right: 375px;
 }
