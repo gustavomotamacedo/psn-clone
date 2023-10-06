@@ -1,0 +1,9 @@
+.menu-bar-container
+{
+  display: flex;
+  flex-direction: row;
+  position: fixed; /* mantem o menu fixo ao rolar a página */
+  z-index: 999; /* deixa o elemento numa camada acima de todas as outras */
+  background-color: #FFFFFF;
+  width: 100%;
+}
